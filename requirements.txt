@@ -1,0 +1,2 @@
+Requirement already satisfied: freeze in c:\users\kamol\appdata\local\programs\python\python38\lib\site-packages (3.0)
+Requirement already satisfied: six in c:\users\kamol\appdata\roaming\python\python38\site-packages (from freeze) (1.15.0)
